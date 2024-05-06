@@ -5,4 +5,4 @@ Nomes: Carlos Eduardo Westfal Batista
        Geovana Brito Veiga de Souza
        Giovana Mariano Agenor
        Rafaela Machado de Oliveira
-       Raissa Oliveira Menezes
+       Raissa Oliveira Menezes  
